@@ -1,11 +1,6 @@
 #include "shell.h"
 
 /**
- * Parsing, syntax analysis, or syntactic analysis is the process of analyzing a string of symbols, 
- * either in natural language, computer languages or data structures
-*/
-
-/**
  * is_cmd - determines if a file is an executable command
  * @info: the info struct
  * @path: path to the file
